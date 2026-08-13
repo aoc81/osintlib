@@ -1,10 +1,32 @@
 # OSINT Library — Reference Index
 
-An automatically maintained index of the OSINT Books collection: **54 books** and **243 documents** on open-source intelligence, investigation, verification, geolocation, national intelligence, defence, and law enforcement.
+An automatically maintained index of the OSINT Books collection: **63 books** and **246 documents** on open-source intelligence, investigation, verification, geolocation, national intelligence, defence, and law enforcement.
 
 Every entry links to its original source. This file is generated from the catalog and updated automatically on each new publication — do not edit by hand.
 
 ## 📚 Books
+
+### Methodology
+
+- [Von der OSINT-Analyse zur Social-Engineering-Attacke: Wie frei verfügbare Informationen zu realen Sicherheitsrisiken werden](https://www.amazon.com/Von-OSINT-Analyse-Social-Engineering-Attacke-Informationen-Sicherheitsrisiken-ebook/dp/B0GRGMVYJ1/) — Jörg Weidemann · 2026
+- [Dark Web Intelligence and OSINT Techniques](https://play.google.com/store/books/details?id=S51OEQAAQBAJ) — Azhar ul Haque Sario · 2025
+- [The Data Sleuth: Mastering OSINT and Investigative Research in the Digital Age](https://play.google.com/store/books/details?id=fbFUEQAAQBAJ) — Kawsar HS · 2025
+- [Inteligência e Investigação Criminal em Fontes Abertas](https://www.editorabrasport.com.br/inteligencia-e-investigacao-criminal-em-fontes-abertas-4ed) — Emerson Wendt · 2024
+- [Open Source Investigations in the Age of Google](https://www.amazon.com/exec/obidos/ASIN/B0D6QRD8LG) — Henrietta Wilson, Olamide Samuel, Dan Plesch · 2024
+- [OSINT Techniques](https://books.google.com/books/about/OSINT_Techniques.html?hl=&id=uEsJ0QEACAAJ) — Michael Bazzell, Jason Edison · 2024
+- [OSINT Techniques: Resources for Uncovering Online Information](https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0DMSPTCFD/) — Michael Bazzell · 2024
+- [Jäger der Digitalen Schatten: Wie OSINT Analysten Menschen im Internet aufspüren](https://www.amazon.com/J%C3%A4ger-Digitalen-Schatten-Analysten-aufsp%C3%BCren-ebook/dp/B0CF2GRP9D/) — Michael Harms · 2023
+- [OSINT : Die Kunst, offene Informationen zu sammeln: Digitale Gesellschaft : Der wachsende Einfluss der Online-Informationssammlung](https://www.amazon.com/OSINT-Informationen-Gesellschaft-wachsende-Online-Informationssammlung-ebook/dp/B0CGXVWKQY/) — David Anderson · 2023
+- [OSINT: Bürger ermitteln im Internet (Geheimdienste 15)](https://www.amazon.com/OSINT-B%C3%BCrger-ermitteln-Internet-Geheimdienste-ebook/dp/B0BTBV2MNG/) — Georg Erwin Thaller · 2023
+- [The Open Source Intelligence Guide: How to Investigate Anyone or Anything on the Internet](https://www.amazon.com/Open-Source-Intelligence-Guide-Investigate-ebook/dp/B0BMXRTG7P/) — Tom Caliendo · 2022
+- [OSINT Investigations](https://openlibrary.org/works/OL27503191W) — Carolina Christofoletti, Diana Prusova, Mirjana Ivanic et al. · 2021
+- [Open Source Intelligence and Cyber Crime](https://openlibrary.org/works/OL25341266W) — Mohammad A. Tayebi, Uwe Glässer, David B. Skillicorn · 2020
+- [OSINT tools in local government: So what can be checked?](https://www.amazon.com/gp/product/B08RGR6WHP) — Mateusz Wójtowicz · 2020
+- [Open Source Intelligence Tools and Resources Handbook](https://openlibrary.org/works/OL30306564W) — i-intelligence · 2019
+- [OSINT](https://openlibrary.org/works/OL21191116W) — Vinny Troia · 2019
+- [OSINT For The Staffing World!](https://www.amazon.com/OSINT-Staffing-World-Dean-Costa-ebook/dp/B07W3JRW5Y) — Dean Da Costa · 2019
+- [Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence](https://openlibrary.org/works/OL19542661W) — Nihad A. Hassan · 2018
+- [Investigators Guide to Open Source Intelligence](https://books.osint.co.za/investigators-guide-to-osint) — Craig Pedersen
 
 ### Analysis
 
@@ -27,25 +49,6 @@ Every entry links to its original source. This file is generated from the catalo
 - [Psychology of Intelligence Analysis](https://www.amazon.com/Psychology-Intelligence-Analysis-Richards-Heuer/dp/B0016OST3O) — Richards J. Heuer Jr. · 2007
 - [Intelligence: From Secrets to Policy](https://www.amazon.com/Intelligence-Secrets-Mark-M-Lowenthal/dp/1568027591) — Mark M. Lowenthal · 2003
 
-### Methodology
-
-- [Von der OSINT-Analyse zur Social-Engineering-Attacke: Wie frei verfügbare Informationen zu realen Sicherheitsrisiken werden](https://www.amazon.com/Von-OSINT-Analyse-Social-Engineering-Attacke-Informationen-Sicherheitsrisiken-ebook/dp/B0GRGMVYJ1/) — Jörg Weidemann · 2026
-- [Inteligência e Investigação Criminal em Fontes Abertas](https://www.editorabrasport.com.br/inteligencia-e-investigacao-criminal-em-fontes-abertas-4ed) — Emerson Wendt · 2024
-- [Open Source Investigations in the Age of Google](https://www.amazon.com/exec/obidos/ASIN/B0D6QRD8LG) — Henrietta Wilson, Olamide Samuel, Dan Plesch · 2024
-- [OSINT Techniques: Resources for Uncovering Online Information](https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0DMSPTCFD/) — Michael Bazzell · 2024
-- [Jäger der Digitalen Schatten: Wie OSINT Analysten Menschen im Internet aufspüren](https://www.amazon.com/J%C3%A4ger-Digitalen-Schatten-Analysten-aufsp%C3%BCren-ebook/dp/B0CF2GRP9D/) — Michael Harms · 2023
-- [OSINT : Die Kunst, offene Informationen zu sammeln: Digitale Gesellschaft : Der wachsende Einfluss der Online-Informationssammlung](https://www.amazon.com/OSINT-Informationen-Gesellschaft-wachsende-Online-Informationssammlung-ebook/dp/B0CGXVWKQY/) — David Anderson · 2023
-- [OSINT: Bürger ermitteln im Internet (Geheimdienste 15)](https://www.amazon.com/OSINT-B%C3%BCrger-ermitteln-Internet-Geheimdienste-ebook/dp/B0BTBV2MNG/) — Georg Erwin Thaller · 2023
-- [The Open Source Intelligence Guide: How to Investigate Anyone or Anything on the Internet](https://www.amazon.com/Open-Source-Intelligence-Guide-Investigate-ebook/dp/B0BMXRTG7P/) — Tom Caliendo · 2022
-- [OSINT Investigations](https://openlibrary.org/works/OL27503191W) — Carolina Christofoletti, Diana Prusova, Mirjana Ivanic et al. · 2021
-- [Open Source Intelligence and Cyber Crime](https://openlibrary.org/works/OL25341266W) — Mohammad A. Tayebi, Uwe Glässer, David B. Skillicorn · 2020
-- [OSINT tools in local government: So what can be checked?](https://www.amazon.com/gp/product/B08RGR6WHP) — Mateusz Wójtowicz · 2020
-- [Open Source Intelligence Tools and Resources Handbook](https://openlibrary.org/works/OL30306564W) — i-intelligence · 2019
-- [OSINT](https://openlibrary.org/works/OL21191116W) — Vinny Troia · 2019
-- [OSINT For The Staffing World!](https://www.amazon.com/OSINT-Staffing-World-Dean-Costa-ebook/dp/B07W3JRW5Y) — Dean Da Costa · 2019
-- [Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence](https://openlibrary.org/works/OL19542661W) — Nihad A. Hassan · 2018
-- [Investigators Guide to Open Source Intelligence](https://books.osint.co.za/investigators-guide-to-osint) — Craig Pedersen
-
 ### Investigative Journalism
 
 - [INVESTIGATIVE JOURNALISM - Revised New Edition: A Professional Handbook for Candidate and Early-Career Journalists](https://www.amazon.com/INVESTIGATIVE-JOURNALISM-Professional-Early-Career-Journalists-ebook/dp/B0FFZSP5WL/) — Osman Karakas · 2025
@@ -61,14 +64,22 @@ Every entry links to its original source. This file is generated from the catalo
 - [Story-Based Inquiry: A Manual for Investigative Journalists](https://www.storybasedinquiry.com/manual) — Mark Lee Hunter · 2009
 - [Watchdog Journalism: The Art of Investigative Reporting](https://www.amazon.com/Watchdog-Journalism-Art-Investigative-Reporting/dp/0195374029) — Stephen J. Berry · 2008
 
+### Cybersecurity
+
+- [A Complete Guide to Mastering Open-Source Intelligence (OSINT)](https://books.google.com/books/about/A_Complete_Guide_to_Mastering_Open_Sourc.html?hl=&id=sEqQ0QEACAAJ) — Rajender Kumar · 2025
+- [Advanced OSINT Strategies](https://play.google.com/store/books/details?id=q1_vEAAAQBAJ) — Rob Botwright · 2024
+- [OSINT Cracking Tools](https://play.google.com/store/books/details?id=LSDsEAAAQBAJ) — Rob Botwright · 2024
+- [OSINT 101 Handbook: Expert-Level Intelligence Gathering](https://play.google.com/store/books/details?id=4LDiEAAAQBAJ) — Rob Botwright · 2023
+- [Hack the World with OSINT](https://www.amazon.sa/-/en/Hack-World-OSINT-Hackers-Gonna/dp/0995687595) — Chris Kubecka · 2019
+
 ### Field History
 
 - [Española: From hooligans to war machines](https://www.amazon.com/Espa%C3%B1ola-hooligans-machines-%C3%81ngel-Ortiz-ebook/dp/B0GYWV1BN4/) — Ángel Ortiz · 2026
 - [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.sa/-/en/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5) — Joshua Picolet · 2021
 
-### Cybersecurity
+### Corporate Intelligence
 
-- [Hack the World with OSINT](https://www.amazon.sa/-/en/Hack-World-OSINT-Hackers-Gonna/dp/0995687595) — Chris Kubecka · 2019
+- [OSINT for Everyone](https://books.google.com/books/about/OSINT_for_Everyone.html?hl=&id=XhQN0AEACAAJ) — Ezra Mendoza · 2023
 
 ### Due Diligence
 
@@ -81,6 +92,10 @@ Every entry links to its original source. This file is generated from the catalo
 ### Human Rights
 
 - [Digital Witness: Using Open Source Information for Human Rights Investigation, Documentation, and Accountability](https://www.amazon.com/exec/obidos/ASIN/0198836074/) — Sam Dubberley, Alexa Koenig, Daragh Murray · 2020
+
+### Operational Security
+
+- [Publications Combined: Studies In Open Source Intelligence (OSINT) And Information](https://play.google.com/store/books/details?id=YnSODwAAQBAJ) — 2019
 
 ### Privacy
 
@@ -133,6 +148,7 @@ Every entry links to its original source. This file is generated from the catalo
 - [Open source intelligence on the internet – categorisation and evaluation of search tools](https://doi.org/10.4467/20801335pbw.24.030.20807) — Daniel Mider · 2024
 - [Open Source Intelligence Opportunities and Challenges: a Review](https://doi.org/10.12913/22998624/186036) — Sabina Szymoniak, Kacper Foks · 2024
 - [Open-Source Intelligence (OSINT)](http://dx.doi.org/10.1017/9781009499392.005) — Netanel Flamer · 2024
+- [Open-Source Intelligence (OSINT) and International Humanitarian Law: Exploring the Scope and Limitations of Civilian Participation in the Russia-Ukraine War](https://doi.org/10.1504/ijdipe.2024.10067477) — Ila Joshi · 2024
 - [PECULIARITIES OF USING OPEN SOURCE INTELLIGENCE (OSINT) IN CRIMINAL PROCEEDINGS](https://doi.org/10.32782/2524-0374/2024-11/106) — D.O. Konovalova · 2024
 - [The Open Source Intelligence (OSINT) in the Electricity Sector: Balancing Utility and Responsibility](https://doi.org/10.2352/ei.2024.36.3.mobmu-318) — Mert Ilhan Ecevit, Muhammad Hasban Pervez, Hasan Dag et al. · 2024
 - [WHAT IS REALLY “OPEN SOURCE INTELLIGENCE”? A CONCEPTUAL ANALYSIS OF THE DIFFERENT NOTIONS OF OSINT](https://doi.org/10.66766/risr.2024.1.03) — Ainara BORDES PEREZ · 2024
@@ -203,7 +219,6 @@ Every entry links to its original source. This file is generated from the catalo
 
 ### Cybersecurity
 
-- [ADVANCING CYBER THREAT INTELLIGENCE WITH MACHINE LEARNING AND OSINT](https://doi.org/10.65725/jcise/2/2/002) — Spoorthi B S, Namana D C, Rohan K et al. · 2026
 - [An AI Powered Passive Reconnaissance Kit To Identifies Potential Vulnerabilities By Correlating Open Source Intelligence (OSINT)](https://doi.org/10.64149/fishtaxa.38.90-97) — Rakul G R, Mr.P.Vikram, Sathish kumar N et al. · 2026
 - [Hybrid‑Threat Intelligence: A Critical Review of Semantic Integration Challenges and the Role of the HIPSTer Ontological Framework](https://doi.org/10.54963/jic.v5i1.2128) — R. Andrew Paskauskas, Evaldas Bružė, Giedre Sabaliauskaite et al. · 2026
 - [reconCTI: A Proactive Approach to Cyber-Threat Intelligence](http://arxiv.org/abs/2605.19899v1) — Mohammed Mahir Rahman, Shahzad Memon, Tauseef Ahmed et al. · 2026
@@ -276,7 +291,9 @@ Every entry links to its original source. This file is generated from the catalo
 - [Open Source Intelligence (OSINT) and the fog of war at the strategic level: Defence industrial production in Russia](https://doi.org/10.1017/eis.2026.10046) — Oldřich Krpec, Martin Chovančík, Adriana Ilavská · 2026
 - [The role of artificial intelligence in radicalisation, recruitment and terrorist propaganda: deconstructing violent extremism and reimagining counterterrorism in contemporary digital ecosystems](https://doi.org/10.3389/fpos.2025.1718396) — Nasir Ahmad Ganaie · 2026
 - [Open-Source Intelligence (OSINT) for Researchers and Practitioners](https://doi.org/10.1007/978-3-032-02014-7_2) — Valerio Scuro · 2025
+- [Role of Open Source Intelligence (OSINT) in Cybersecurity and Threat Analysis](https://doi.org/10.51583/ijltemas.2025.140300023) — ERNEST OYEMNDU NONUM, Oghenetega AVWOKURUAYE., Tochukwu M. EZEMONYE · 2025
 - [Analysing Protest-Related Tweets: An Evaluation of Techniques by the Open Source Intelligence Team](https://doi.org/10.1007/978-3-031-53963-3_5) — Laurens H.F. Müter, Remco C. Veltkamp · 2024
+- [Open-Source Intelligence for Counterterrorism](https://www.mitre.org/sites/default/files/2024-11/PR-24-2842-Open-Source-Intelligence-for-Counterterrorism_0.pdf) — Dan Kolva, D. Whitney · 2024
 - [The Intelligence College in Europe: An Effort to Create a European Intelligence Community](https://doi.org/10.11610/connections.23.1.03) — Uwe M. Borghoff, Ларс Бергер, François Fischer · 2024
 - [Knowledge-Embedded Narrative Construction from Open Source Intelligence](https://doi.org/10.1609/aaai.v37i13.26926) — Priyanka Ranade · 2023
 - [Methodologies for Retrieving and Processing Information from Open Sources (OSINT)](https://doi.org/10.32754/jmt.2023.1.05) — Călin Ioan Julan, Mihai Togan · 2023
@@ -355,14 +372,15 @@ Every entry links to its original source. This file is generated from the catalo
 - [System of principles of OSINT functioning in the field of anti-corruption activities in law enforcement authorities](https://doi.org/10.37440/soclaw.2019.03.12) — V. Sherban · 2019
 - [Critical success factors for OSINT Driven Situational Awareness](http://orcid.org/0000-0003-3684-6481>) — Babak Akhgar, Douglas Wells · 2018
 
+### Corporate Intelligence
+
+- [COMPETITIVE INTELLIGENCE AND OPEN SOURCE INTELLIGENCE – USEFUL TOOLS FOR COMPETITIVE BUSINESS](https://doi.org/10.53477/2284-9378-22-95) — Raluca LUȚAI, Adina MIHĂESCU · 2023
+- [Open Source Intelligence (OSINT), veille et intelligence économique : des croisements féconds](https://doi.org/10.3917/i2d.211.0067) — Christophe Deschamps · 2021
+
 ### Investigative Journalism
 
 - [OPEN EYE: An Information Gathering Tool Using OSINT Framework](https://doi.org/10.1109/icstsdg61998.2024.11026654) — A.M. Sermakani, P. S. Sreejith, Ajay Krishna et al. · 2024
 - [Investigative Journalism Handbook](https://institute.aljazeera.net/sites/default/files/2020/Investigative%20Journalism%20Handbook_0.pdf) — Al Jazeera Media Institute · 2020
-
-### Corporate Intelligence
-
-- [Open Source Intelligence (OSINT), veille et intelligence économique : des croisements féconds](https://doi.org/10.3917/i2d.211.0067) — Christophe Deschamps · 2021
 
 ### Field History
 
