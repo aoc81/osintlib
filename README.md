@@ -1,6 +1,6 @@
 # OSINT Library — Reference Index
 
-An automatically maintained index of the OSINT Books collection: **55 books** and **246 documents** on open-source intelligence, investigation, verification, geolocation, national intelligence, defence, and law enforcement.
+An automatically maintained index of the OSINT Books collection: **54 books** and **243 documents** on open-source intelligence, investigation, verification, geolocation, national intelligence, defence, and law enforcement.
 
 Every entry links to its original source. This file is generated from the catalog and updated automatically on each new publication — do not edit by hand.
 
@@ -58,7 +58,6 @@ Every entry links to its original source. This file is generated from the catalo
 - [The Science Writers’ Investigative Reporting Handbook](https://www.nasw.org/bookstore/science-writers-investigative-reporting-handbook) — Liza Gross · 2018
 - [Global Muckraking: 100 Years of Investigative Journalism from Around the World](https://www.amazon.com/Global-Muckraking-Investigative-Journalism-Around-ebook/dp/B00J1K3TKI/) — Anya Schiffrin · 2014
 - [Digging Deeper: A Guide for Investigative Journalists in the Balkans](https://www.amazon.com/Digging-Deeper-Investigative-Journalists-ebook/dp/B007FQEE0Y) — Sheila Coronel · 2012
-- [The Global investigative journalism casebook](https://unesdoc.unesco.org/ark:/48223/pf0000217636) — Mark Lee Hunter · 2012
 - [Story-Based Inquiry: A Manual for Investigative Journalists](https://www.storybasedinquiry.com/manual) — Mark Lee Hunter · 2009
 - [Watchdog Journalism: The Art of Investigative Reporting](https://www.amazon.com/Watchdog-Journalism-Art-Investigative-Reporting/dp/0195374029) — Stephen J. Berry · 2008
 
@@ -277,15 +276,12 @@ Every entry links to its original source. This file is generated from the catalo
 - [Open Source Intelligence (OSINT) and the fog of war at the strategic level: Defence industrial production in Russia](https://doi.org/10.1017/eis.2026.10046) — Oldřich Krpec, Martin Chovančík, Adriana Ilavská · 2026
 - [The role of artificial intelligence in radicalisation, recruitment and terrorist propaganda: deconstructing violent extremism and reimagining counterterrorism in contemporary digital ecosystems](https://doi.org/10.3389/fpos.2025.1718396) — Nasir Ahmad Ganaie · 2026
 - [Open-Source Intelligence (OSINT) for Researchers and Practitioners](https://doi.org/10.1007/978-3-032-02014-7_2) — Valerio Scuro · 2025
-- [Role of Open Source Intelligence (OSINT) in Cybersecurity and Threat Analysis](https://doi.org/10.51583/ijltemas.2025.140300023) — ERNEST OYEMNDU NONUM, Oghenetega AVWOKURUAYE., Tochukwu M. EZEMONYE · 2025
 - [Analysing Protest-Related Tweets: An Evaluation of Techniques by the Open Source Intelligence Team](https://doi.org/10.1007/978-3-031-53963-3_5) — Laurens H.F. Müter, Remco C. Veltkamp · 2024
-- [Open-Source Intelligence for Counterterrorism](https://www.mitre.org/sites/default/files/2024-11/PR-24-2842-Open-Source-Intelligence-for-Counterterrorism_0.pdf) — Dan Kolva, D. Whitney · 2024
 - [The Intelligence College in Europe: An Effort to Create a European Intelligence Community](https://doi.org/10.11610/connections.23.1.03) — Uwe M. Borghoff, Ларс Бергер, François Fischer · 2024
 - [Knowledge-Embedded Narrative Construction from Open Source Intelligence](https://doi.org/10.1609/aaai.v37i13.26926) — Priyanka Ranade · 2023
 - [Methodologies for Retrieving and Processing Information from Open Sources (OSINT)](https://doi.org/10.32754/jmt.2023.1.05) — Călin Ioan Julan, Mihai Togan · 2023
 - [Open source intelligence and AI: a systematic review of the GELSI literature](https://doi.org/10.1007/s00146-023-01628-x) — Riccardo Ghioni, Mariarosaria Taddeo, Luciano Floridi · 2023
 - [Open-Source Analysis of Iran's Missile and UAV Capabilities and Proliferation](https://www.iiss.org/globalassets/media-library---content--migration/files/research-papers/open-source-analysis-of-irans-missile-and-uav-capabilities-and-proliferation.pdf) — The International Institute for Strategic Studies · 2023
-- [The Comprehensive Approach of Military Strategic Operations Planning and its support by Artificial Intelligence](https://doi.org/10.35926/hdr.2023.1-2.1) — István Szabadföldi, Imre Négyesi · 2023
 - [The Intelligence College in Europe (ICE): An Effort to Create a European Intelligence Community](http://arxiv.org/abs/2312.17107) — Uwe M. Borghoff, Ларс Бергер, François Fischer · 2023
 - [Travel intelligence as a tool for counterintelligence and border security](https://doi.org/10.35467/sdq/174523) — Anastasios-Nikolaos Kanellopoulos · 2023
 - [A mesterséges intelligenciával támogatott nyílt információszerzés (OSINT) – evolúció és kihívások](https://doi.org/10.32561/nsz.2022.1.3.) — István Szabadföldi · 2022
@@ -301,6 +297,7 @@ Every entry links to its original source. This file is generated from the catalo
 
 ### Verification
 
+- [Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions](http://arxiv.org/abs/2607.03233v1) — Eduardo Almeida Palmieri, Mohamed Chahine Ghanem, Dipo Dunsin et al. · 2026
 - [The Use of Digital Evidence and Open-Source Intelligence (OSINT) in International Criminal Investigations and Prosecutions](https://doi.org/10.65040/remeje.2026.022541) — A. Munsoor Almoatuz · 2026
 - [Application of OSINT Methods in Ensuring Cybersecurity](https://doi.org/10.58245/ipsi.tir.2502.05) — Sabina Szymoniak, Kacper Foks, Aleksandra Pyrkosz-Dziubczyk · 2025
 - [Examination of the crime scene during the investigation of official criminal offenses committed by law enforcement officers](https://doi.org/10.24144/2307-3322.2025.89.3.65) — T. V. Chepurna · 2025
@@ -358,15 +355,14 @@ Every entry links to its original source. This file is generated from the catalo
 - [System of principles of OSINT functioning in the field of anti-corruption activities in law enforcement authorities](https://doi.org/10.37440/soclaw.2019.03.12) — V. Sherban · 2019
 - [Critical success factors for OSINT Driven Situational Awareness](http://orcid.org/0000-0003-3684-6481>) — Babak Akhgar, Douglas Wells · 2018
 
-### Corporate Intelligence
-
-- [COMPETITIVE INTELLIGENCE AND OPEN SOURCE INTELLIGENCE – USEFUL TOOLS FOR COMPETITIVE BUSINESS](https://doi.org/10.53477/2284-9378-22-95) — Raluca LUȚAI, Adina MIHĂESCU · 2023
-- [Open Source Intelligence (OSINT), veille et intelligence économique : des croisements féconds](https://doi.org/10.3917/i2d.211.0067) — Christophe Deschamps · 2021
-
 ### Investigative Journalism
 
 - [OPEN EYE: An Information Gathering Tool Using OSINT Framework](https://doi.org/10.1109/icstsdg61998.2024.11026654) — A.M. Sermakani, P. S. Sreejith, Ajay Krishna et al. · 2024
 - [Investigative Journalism Handbook](https://institute.aljazeera.net/sites/default/files/2020/Investigative%20Journalism%20Handbook_0.pdf) — Al Jazeera Media Institute · 2020
+
+### Corporate Intelligence
+
+- [Open Source Intelligence (OSINT), veille et intelligence économique : des croisements féconds](https://doi.org/10.3917/i2d.211.0067) — Christophe Deschamps · 2021
 
 ### Field History
 
